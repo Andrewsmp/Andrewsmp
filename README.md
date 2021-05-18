@@ -10,7 +10,7 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 ### GitHub Stats
 
 [![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrewsmp&show_icons=true&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsmp&show_icons=truet&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsmp&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
 
 ### Technologies & Tools
 ![Python Badge](https://img.shields.io/badge/Python-14354C?logo=python)
