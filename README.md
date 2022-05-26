@@ -13,9 +13,6 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsmp&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
 
 ### Technologies & Tools
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code)
-![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim)
 <div>
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -26,8 +23,8 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
- <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div>
 
  ### Courses 
