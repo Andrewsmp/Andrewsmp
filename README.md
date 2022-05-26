@@ -29,6 +29,6 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 </div>
 
  ### Courses 
-- Web Developer with python on [Fuctura](https://www.fuctura.com.br/recife/cursos/python/) - Studying
+- Web Developer with python on [Fuctura](https://www.fuctura.com.br/recife/cursos/python/) - Finished
 - Web Developer with Java on [Fuctura](https://www.fuctura.com.br/recife/cursos/java/) - Finished
 - Analysis and Systems Development on [Unibratec](https://web.facebook.com/unibratec/?_rdc=1&_rdr) - Finished
