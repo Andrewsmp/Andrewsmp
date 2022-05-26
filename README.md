@@ -13,10 +13,8 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsmp&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
 
 ### Technologies & Tools
-![Python Badge](https://img.shields.io/badge/Python-14354C?logo=python)
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?logo=css3)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code)
@@ -24,6 +22,8 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 <div>
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
 
  ### Courses 
