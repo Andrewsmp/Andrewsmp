@@ -16,13 +16,13 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?logo=python)
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?logo=css3)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?logo=javascript))
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?logo=javascript)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code)
 ![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim)
 <div>
- 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
  ### Courses 
