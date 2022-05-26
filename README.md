@@ -13,9 +13,6 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewsmp&theme=highcontrast)](https://github.com/Andrewsmp/github-readme-stats)
 
 ### Technologies & Tools
-![HTML Badge](https://img.shields.io/badge/HTML-239120?logo=html5)
-![CSS Badge](https://img.shields.io/badge/CSS-239120?logo=css3)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code)
 ![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim)
@@ -24,6 +21,13 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+ <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+ <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
 </div>
 
  ### Courses 
