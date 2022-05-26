@@ -1,6 +1,6 @@
 ### Hi, i'am Andrews👋!
 
-In the process of learning (always) in the area of software development, in the language javascript and python in the use of the back-end, basic knowledge in tools like NodeJs, Django and Express. I want to enter the field through the first opportunity and become a full-stack developer.
+In the process of learning (always) in the area of software development, in javascript language and python and in the use of the back-end, basic knowledge in tools like NodeJs, Django and Express. I want to enter the field through the first opportunity and become a full-stack developer.
 
 [![Github Badge](https://img.shields.io/badge/Andrewsmp-100000?logo=github&logoColor=white&link=https://github.com/Andrewsmp)](https://github.com/Andrewsmp)
 [![Linkedin Badge](https://img.shields.io/badge/andrewspereira-0077B5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewspereira/)](https://www.linkedin.com/in/andrewspereira/)
