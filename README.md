@@ -1,6 +1,6 @@
 ### Hi, i'am Andrews👋!
 
-I'm a backend developer Python fan, i'm learning at the moment flask to improve my backend skils, always open to new technologies.
+In the process of learning (always) in the area of software development, in the language javascript and python in the use of the back-end, basic knowledge in tools like NodeJs, Django and Express. I want to enter the field through the first opportunity and become a full-stack developer.
 
 [![Github Badge](https://img.shields.io/badge/Andrewsmp-100000?logo=github&logoColor=white&link=https://github.com/Andrewsmp)](https://github.com/Andrewsmp)
 [![Linkedin Badge](https://img.shields.io/badge/andrewspereira-0077B5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewspereira/)](https://www.linkedin.com/in/andrewspereira/)
@@ -27,8 +27,3 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> &nbsp;
  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
- ### Courses 
-- Web Developer with python on [Fuctura](https://www.fuctura.com.br/recife/cursos/python/) - Finished
-- Web Developer with Java on [Fuctura](https://www.fuctura.com.br/recife/cursos/java/) - Finished
-- Analysis and Systems Development on [Unibratec](https://web.facebook.com/unibratec/?_rdc=1&_rdr) - Finished
