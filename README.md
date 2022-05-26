@@ -22,7 +22,7 @@ I'm a backend developer Python fan, i'm learning at the moment flask to improve 
 ![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code)
 ![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim)
 <div>
- <img style="height:10px;width:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img style="height:15px;width:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
  ### Courses 
